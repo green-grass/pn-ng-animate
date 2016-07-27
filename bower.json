@@ -1,0 +1,30 @@
+{
+  "name": "pn-ng-animate",
+  "version": "1.0.0-rc1-0",
+  "description": "PhantomNet AngularJS animation utilities",
+  "main": "./dist/**/*.*",
+  "authors": [
+    "Minh Nguyen <mnguyen284@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "PhantomNet",
+    "AngularJS",
+    "animation"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "https://github.com/green-grass/pn-ng-animate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 2.0.0",
+    "angular-animate": ">= 1.5.0"
+  }
+}
